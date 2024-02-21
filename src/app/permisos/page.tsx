@@ -15,9 +15,9 @@ export default function Campaign() {
       <Navbar />
       <Hero />
       <VideoIntro />
-      <Feature />
+      
       <MobileConvenience />
-      <Testimonials />
+      
       <Faqs />
       <Footer />
     </>
