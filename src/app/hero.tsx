@@ -13,12 +13,7 @@ function Hero() {
             <Typography variant="h1" color="white" className="mb-4">
               FILMÁ  <br />EN TIERRA DEL FUEGO
             </Typography>
-            <Typography
-              variant="lead"
-              className="mb-7 !text-white md:pr-16 xl:pr-28"
-            >
-              
-            </Typography>
+            
             <Typography className="mb-4" color="white" variant="h6">
             Es una entidad destinada a facilitar a los productores audiovisuales nacionales e internacionales toda la información que precisen para la realización de rodajes en un determinado lugar (incluyendo películas, televisión y anuncios). Con su trabajo promueven la industria audiovisual y la propia zona en la que opera.
             </Typography>
